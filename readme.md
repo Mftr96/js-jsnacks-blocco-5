@@ -30,3 +30,7 @@ esecuzione snack 1:
 -creazione array zucchine:
 -creazione variabile somma risultato 
 -esecuzione ciclo 
+-------------------
+esecuzione snack 3
+-creazione parola:
+-invertire la parola in un ciclo(indice-1) 

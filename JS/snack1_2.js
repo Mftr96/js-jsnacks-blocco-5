@@ -60,3 +60,4 @@ console.log("la somma delle lunghe è ",somma_lunghe)
 //------------------------------------------------------------
 
 
+
