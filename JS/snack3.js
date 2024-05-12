@@ -23,3 +23,4 @@ function f_parola(){
 f_parola();
 console.log(lettere_parola);
 console.log(lettere_girate)
+//-------------------------------------------------------

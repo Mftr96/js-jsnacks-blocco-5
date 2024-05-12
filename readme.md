@@ -33,4 +33,10 @@ esecuzione snack 1:
 -------------------
 esecuzione snack 3
 -creazione parola:
--invertire la parola in un ciclo(indice-1) 
+-invertire la parola in un ciclo(indice-1)
+--------------------
+ESECUZIONE SNACK 4:
+-dichiaro array in pagina
+-dichiaro array somma vuoto
+-creo ciclo che inserisce i valori in fila
+-stampo in pagina la somma
